@@ -1,5 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="buttonBackground">#6200EE</color> <!-- Màu nền cho nút -->
+    <color name="buttonTextColor">#FFFFFF</color> <!-- Màu chữ cho nút -->
+    <color name="dividerColor">#D0D0D0</color> <!-- Màu cho divider -->
+    <color name="backgroundColor">#FFFFFF</color> <!-- Màu nền cho layout -->
+    <color name="stem">#80BD9E</color>
+    <color name="colorHint">#A0A0A0</color>
+    <color name="black">#000000</color>
+    <color name="yellow">#FFFF00</color>
 </resources>

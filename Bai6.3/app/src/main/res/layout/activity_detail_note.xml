@@ -2,7 +2,8 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="@drawable/image1">
 
     <TextView
         android:id="@+id/textViewTitle"
@@ -16,7 +17,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="textMultiLine"
-        android:lines="5" />
+        android:lines="5"
+        android:hint="Nhập nội dung ở đây" />
 
     <Button
         android:id="@+id/buttonUpdate"

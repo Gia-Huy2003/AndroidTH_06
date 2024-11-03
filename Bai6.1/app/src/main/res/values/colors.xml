@@ -1,5 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="backgroundColor">#F5F5F5</color> <!-- Màu nền sáng -->
+    <color name="titleBackground">#FF6200EE</color> <!-- Màu nền cho tiêu đề -->
+    <color name="recyclerViewBackground">#FFFFFF</color> <!-- Màu nền cho RecyclerView -->
+    <color name="buttonColor">#FF3700B3</color> <!-- Màu cho nút -->
+    <color name="buttonTextColor">#FFFFFF</color> <!-- Màu chữ cho nút -->
+    <color name="primaryColor">#6200EE</color> <!-- Màu chính -->
+    <color name="accentColor">#03DAC5</color> <!-- Màu nhấn -->
+    <color name="textColor">#212121</color> <!-- Màu chữ tối, độ tương phản cao -->
+    <color name="dividerColor">#BDBDBD</color> <!-- Màu cho divider -->
+    <color name="green">#4CAF50</color>
+    <color name="petal">#F98866</color>
+    <color name="stem">#80BD9E</color>
+    <color name="yellow">#FFFF00</color>
 </resources>
